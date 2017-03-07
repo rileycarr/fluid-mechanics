@@ -1,4 +1,4 @@
-function [ Tstar_T0] = Tstar_T0_1D_isen( k )
+function [ Tstar_T0] = isen_tstart0( k )
 %UNTITLED6 Summary of this function goes here
 %   Detailed explanation goes here
 

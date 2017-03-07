@@ -1,4 +1,4 @@
-function [ P0_P ] = P0_P_1D_isen( k, Ma )
+function [ P0_P ] = isen_p0p( k, Ma )
 %UNTITLED3 Summary of this function goes here
 %   Detailed explanation goes here
 

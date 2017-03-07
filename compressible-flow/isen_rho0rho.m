@@ -1,4 +1,4 @@
-function [ rho0_rho ] = rho0_rho_1D_isen( k, Ma )
+function [ rho0_rho ] = isen_rho0rho( k, Ma )
 %UNTITLED3 Summary of this function goes here
 %   Detailed explanation goes here
 

@@ -1,4 +1,4 @@
-function [ Pstar_P0 ] = Pstar_P0_1D_isen( k )
+function [ Pstar_P0 ] = isen_pstarp0( k )
 %UNTITLED7 Summary of this function goes here
 %   Detailed explanation goes here
 

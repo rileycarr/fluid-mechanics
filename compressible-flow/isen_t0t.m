@@ -1,4 +1,4 @@
-function [ T0_T ] = T0_T_1D_isen( k, Ma )
+function [ T0_T ] = isen_t0t( k, Ma )
 %UNTITLED2 Summary of this function goes here
 %   Detailed explanation goes here
 

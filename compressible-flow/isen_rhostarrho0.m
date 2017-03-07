@@ -1,4 +1,4 @@
-function [ rhostar_rho0 ] = rhostar_rho0_1D_isen( k )
+function [ rhostar_rho0 ] = isen_rhostarrho0( k )
 %UNTITLED8 Summary of this function goes here
 %   Detailed explanation goes here
 
